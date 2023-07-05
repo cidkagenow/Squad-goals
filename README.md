@@ -1,11 +1,8 @@
+SMART CONTRACT DEPLOYED ON LINEA 
+
+
 # Squad Goals
 
-
-### Smart contracts Repo with Tests:
-https://github.com/Top-Summer-Hackers/squad-goals-contracts
-
-Tests:
-https://github.com/Top-Summer-Hackers/squad-goals-contracts/tree/main/test
 
 
 ## Summary
@@ -58,11 +55,8 @@ A crypto protocol that helps you achieve your goals with your squad. Set a goal,
 
 ---
 
-## Pitchdeck
-https://pitch.com/public/a736a532-3233-40f7-be45-f370c7fdd4f2
-
-## Video Demo
-https://vimeo.com/831004061?share=copy
+## Video demo
+https://drive.google.com/file/d/1YidFCi7YEu5bC3bzwuRKF-3fOpfXO259/view?usp=drive_link
 
 ## Live Site
 https://squadgoals.vercel.app
@@ -102,4 +96,13 @@ https://www.figma.com/file/MmD6uGCyfhNkYV6oW18CrZ/squad-goals?type=design&node-i
 ### Smart Contract Documentation 
 
 https://book-mu-fawn.vercel.app/
+
+## Linea
+
+![Link to infura rpc](https://github.com/cidkagenow/Squad-goals/blob/dd803ab14ce5bf215dc6e6584a4a4cbd16ecbabe/README.md#L107)
+
+
+| Contract | Address |
+| SquadGoals | 0xCa533e9321AE3bf5cc800380BaF81CeDed0bf9e7 |
+
 
